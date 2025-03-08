@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small house
+* source:	https://sketchfab.com/3d-models/small-house-578d3864a3a84cc5a23d5066dcc4e4c8
+* author:	Dynamike17 (https://sketchfab.com/Dynamike17)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small house" (https://sketchfab.com/3d-models/small-house-578d3864a3a84cc5a23d5066dcc4e4c8) by Dynamike17 (https://sketchfab.com/Dynamike17) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

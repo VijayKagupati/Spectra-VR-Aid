@@ -1,0 +1,11 @@
+Model Information:
+* title:	indian house model
+* source:	https://sketchfab.com/3d-models/indian-house-model-293123c9f923450d9e015a43bbe4d75e
+* author:	Er.B.Nijithkumar (https://sketchfab.com/nijithkumar99)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "indian house model" (https://sketchfab.com/3d-models/indian-house-model-293123c9f923450d9e015a43bbe4d75e) by Er.B.Nijithkumar (https://sketchfab.com/nijithkumar99) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

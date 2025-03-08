@@ -1,0 +1,51 @@
+fileFormatVersion: 2
+guid: 2aafb23d68b9c1b44ac6bd859c62f832
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\house\indian_house_model\scene.bin
+    assetPath: Assets\house\indian_house_model\scene.bin
+  - type: 1
+    originalUri: Assets\house\indian_house_model\textures\08_-_Default_baseColor.png
+    assetPath: Assets\house\indian_house_model\textures\08_-_Default_baseColor.png
+  - type: 1
+    originalUri: Assets\house\indian_house_model\textures\11_-_Default_baseColor.png
+    assetPath: Assets\house\indian_house_model\textures\11_-_Default_baseColor.png
+  - type: 1
+    originalUri: Assets\house\indian_house_model\textures\02_-_Default_baseColor.png
+    assetPath: Assets\house\indian_house_model\textures\02_-_Default_baseColor.png
+  - type: 1
+    originalUri: Assets\house\indian_house_model\textures\13_-_Default_baseColor.png
+    assetPath: Assets\house\indian_house_model\textures\13_-_Default_baseColor.png
+  - type: 1
+    originalUri: Assets\house\indian_house_model\textures\07_-_Default_baseColor.jpeg
+    assetPath: Assets\house\indian_house_model\textures\07_-_Default_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\house\indian_house_model\textures\18_-_Default_baseColor.png
+    assetPath: Assets\house\indian_house_model\textures\18_-_Default_baseColor.png
+  - type: 1
+    originalUri: Assets\house\indian_house_model\textures\06_-_Default_baseColor.jpeg
+    assetPath: Assets\house\indian_house_model\textures\06_-_Default_baseColor.jpeg
+  reportItems: []

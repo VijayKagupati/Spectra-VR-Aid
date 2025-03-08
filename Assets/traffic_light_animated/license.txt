@@ -1,0 +1,11 @@
+Model Information:
+* title:	Traffic Light Animated
+* source:	https://sketchfab.com/3d-models/traffic-light-animated-25734349111e4d01a64f9805c4fab0d8
+* author:	BaptisteBerard (https://sketchfab.com/BaptisteBerard)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Traffic Light Animated" (https://sketchfab.com/3d-models/traffic-light-animated-25734349111e4d01a64f9805c4fab0d8) by BaptisteBerard (https://sketchfab.com/BaptisteBerard) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
