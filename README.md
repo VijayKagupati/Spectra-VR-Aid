@@ -34,30 +34,17 @@ Spectra not only focuses on skill development but also provides a safe and engag
 
 - **Immersive Environments:** Explore realistic scenarios (e.g., classroom, playground, road crossing) that simulate daily challenges.
 - **Interactive Modules:** Modules covering life skills, safety, communication, and emotional regulation.
-- **User Management:** Secure log in/sign up for children, parents, and educators.
-- **Progress Tracking:** A comprehensive web dashboard for monitoring user performance and analytics.
-- **Customization:** Adaptable scenarios to meet varying levels of cognitive and sensory needs.
-- **Real-Time Monitoring:** Immediate feedback for caretakers via integrated APIs and dashboards.
-
 ---
 
 ## Architecture & Tech Stack
 
 - **VR Application:** Developed using OpenXR and 3D Universal Render Pipeline (3DURP) for immersive experiences.
-- **Backend:** RESTful API endpoints support business logic, role-based access, and real-time data processing.
-- **Database:** Stores user profiles, progress data, and analytics for continuous improvement.
-- **Web Dashboard:** Built to provide educators and parents with insights into user progress and usage analytics.
-- **Authentication & Security:** Ensures data privacy and secure access for different user roles.
-
 ---
 
 ## Demo
-
 Explore the project through these resources:
 
 - **Pitch Deck:** [View the Pitch Deck](https://drive.google.com/file/d/1KNb9IZddDuYXMJX-_sE9Wbwq44YL-uST/view)
 - **Video Demo:** [Watch the Demo Video](https://drive.google.com/file/d/11Bh9pB6HF2o9gUQ0qtDnZt-Ll8HU_Oee/view)
   
-You can also embed the demo video in your browser using the following HTML snippet:
-```html
 <iframe src="https://drive.google.com/file/d/11Bh9pB6HF2o9gUQ0qtDnZt-Ll8HU_Oee/preview" width="640" height="480" allow="autoplay"></iframe>
