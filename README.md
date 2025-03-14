@@ -46,5 +46,4 @@ Explore the project through these resources:
 
 - **Pitch Deck:** [View the Pitch Deck](https://drive.google.com/file/d/1KNb9IZddDuYXMJX-_sE9Wbwq44YL-uST/view)
 - **Video Demo:** [Watch the Demo Video](https://drive.google.com/file/d/11Bh9pB6HF2o9gUQ0qtDnZt-Ll8HU_Oee/view)
-  
-<iframe src="https://drive.google.com/file/d/11Bh9pB6HF2o9gUQ0qtDnZt-Ll8HU_Oee/preview" width="640" height="480" allow="autoplay"></iframe>
+  <video src="video.mp4" controls="controls" style="max-width: 100%;"></video>
