@@ -29,6 +29,10 @@ Children with ASD and ID often face challenges in social interactions, emotional
 Spectra not only focuses on skill development but also provides a safe and engaging environment where children can learn at their own pace.
 
 ---
+![Screenshot 2024-09-05 201409](https://github.com/user-attachments/assets/dbe017f9-5107-45c5-baff-f1005ce633d6)
+![Screenshot 2024-09-05 201329](https://github.com/user-attachments/assets/ed707bff-6b8d-4bce-a73e-b51b923da066)
+![image](https://github.com/user-attachments/assets/76279452-420e-4c0a-bb3f-1f39bc652a0b)
+
 
 ## Features
 
