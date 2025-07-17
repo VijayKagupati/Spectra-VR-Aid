@@ -10,12 +10,6 @@ Spectra is a Virtual Reality (VR) based learning tool designed to empower childr
 - [Features](#features)
 - [Architecture & Tech Stack](#architecture--tech-stack)
 - [Demo](#demo)
-- [Research & Resources](#research--resources)
-- [Getting Started](#getting-started)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ---
 
