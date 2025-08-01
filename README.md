@@ -34,11 +34,6 @@ Spectra not only focuses on skill development but also provides a safe and engag
 - **Interactive Modules:** Modules covering life skills, safety, communication, and emotional regulation.
 ---
 
-## Architecture & Tech Stack
-
-- **VR Application:** Developed using OpenXR and 3D Universal Render Pipeline (3DURP) for immersive experiences.
----
-
 ## Demo
 Explore the project through these resources:
 
